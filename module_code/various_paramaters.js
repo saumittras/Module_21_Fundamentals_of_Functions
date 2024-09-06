@@ -8,5 +8,3 @@ function evenSizeedString(str) {
   console.log(str, size);
 }
 evenSizeedString("dhaka");
-
-function numbersofEle
